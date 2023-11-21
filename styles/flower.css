@@ -190,7 +190,7 @@ line-height: 30px;
     background-position: 0%;
     background-size: cover;
     width: 1500px;
-height: 300px;
+height: 400px;
 flex-shrink: 0;
 margin: auto;
 margin-top: 200px;
@@ -233,4 +233,37 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+}
+.footer{
+    background: #111010;
+    height: 400px;
+       margin-top: 150px;
+}
+.shop-information{
+    text-align: center;
+}
+.shop-tittle{
+    padding-top: 120px;
+
+}
+.pink{
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+}
+.white{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+}
+.shop-look{
+    color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.shop-contact{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
 }
