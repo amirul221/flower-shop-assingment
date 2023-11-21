@@ -54,8 +54,8 @@ line-height: 30px;
 }
 .section-2{
     display: flex;
-    justify-content: space-between;
-    padding: 30px 200px 50px 300px;
+    justify-content: space-around;
+    padding: 30px 240px 50px 240px;
 }
 .pic-1{
     width: 464px;
@@ -87,4 +87,25 @@ font-weight: 700;
 line-height: 35px; 
 text-decoration-line: underline;
 }
-
+.section-3{
+    width: 1200px;
+height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: auto;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.service{
+    display: flex;
+    justify-content: space-between;
+}
+.service-delevery{
+    text-align: center;
+}
+.service-flower{
+    text-align: center;
+}
+.service-contact{
+    text-align: center;
+}
