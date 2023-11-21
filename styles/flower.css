@@ -161,6 +161,7 @@ flex-shrink: 0;
 }
 .section-5{
     margin-top: 130px;
+    margin-bottom: 130px;
     text-align: center;
 }
 .in{
@@ -182,4 +183,54 @@ line-height: 30px;
 .picture{
     display: flex;
     justify-content: space-around;
+}
+.section-7{
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+    width: 1500px;
+height: 300px;
+flex-shrink: 0;
+margin: auto;
+margin-top: 200px;
+
+
+}
+.product-contact{
+   text-align: center;
+}
+.deal{
+    padding-top: 80px;
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.discount{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.btn-1{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
+.btn-2{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+
+color: #FFF;
+
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
